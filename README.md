@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there. This is Bereket Yisehak. 👋
+
+- 😀 My full name: Bereket Yisehak Faltamo
+- 😄 Pronouns: He/Him/His
+- 📫 How to reach me: iberekety@kaist.ac.kr
+- ⚡ Fun fact: _currently thinking about_
+
 
 <!--
 **anjulo/anjulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
