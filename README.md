@@ -2,7 +2,7 @@
 
 - 😀 My full name: Bereket Yisehak Faltamo
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: iberekety@kaist.ac.kr
+- 📫 How to reach me: faltamo.b@northeastern.edu
 - ⚡ Fun fact: _currently thinking about_
 
 
