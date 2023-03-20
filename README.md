@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A Passionate Software/Robotics Engineer</h3>
 
-- 📄 Know about my experiences [abc](abc)
+- 📄 Know about my experiences [Resume]([abc](https://flowcv.com/resume/w1es7rl87o))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
